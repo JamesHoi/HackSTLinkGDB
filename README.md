@@ -2,7 +2,7 @@
 破解STM32CubeIDE的芯片正版验证
 
 ## 如何使用
-用SetDll将dll注入到STM32CubeIDE目录下的stlinkgdb-server.exe
+用SetDll将dll注入到STM32CubeIDE目录下的stlinkgdb-server.exe  
 todo: 详细步骤
 
 ## 分析
